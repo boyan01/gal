@@ -37,5 +37,3 @@ flutter:
       ios:
         pluginClass: GalPlugin
         sharedDarwinSource: true
-      windows:
-        pluginClass: GalPluginCApi
